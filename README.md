@@ -1,0 +1,2 @@
+# XScript
+A script
